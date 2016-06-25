@@ -8,7 +8,7 @@ setup(
   author_email = '',
   url = 'https://github.com/MichielDePaepe/django-pisa',
   download_url = 'https://github.com/MichielDePaepe/django-pisa/tarball/0.1',
-  keywords = [""django", "pisa", "pdf", "response"],
+  keywords = ["django", "pisa", "pdf", "response"],
   classifiers = [],
 )
 
